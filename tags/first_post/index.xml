@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>first_post - Tag - Phuc000 Site</title>
+        <link>http://phuc000.github.io/tags/first_post/</link>
+        <description>first_post - Tag - Phuc000 Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>truongvinhphuc2003@gmail.com (Phuc000)</managingEditor>
+            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/tags/first_post/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://phuc000.github.io/first_post/</link>
+    <pubDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</pubDate>
+    <author>Phuc000</author>
+    <guid>http://phuc000.github.io/first_post/</guid>
+    <description><![CDATA[<p>First post test</p>]]></description>
+</item>
+</channel>
+</rss>
