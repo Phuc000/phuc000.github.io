@@ -1,7 +1,7 @@
 # First_post
 
 
-First post test
+First post
 
 <!--more-->
 ## Overview

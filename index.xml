@@ -9,10 +9,9 @@
         <item>
     <title>First_post</title>
     <link>http://phuc000.github.io/first_post/</link>
-    <pubDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</pubDate>
-    <author>Phuc000</author>
-    <guid>http://phuc000.github.io/first_post/</guid>
-    <description><![CDATA[<p>First post test</p>]]></description>
-</item>
-</channel>
+    <pubDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</pubDate><author>
+        <name>Phuc000</name>
+    </author><guid>http://phuc000.github.io/first_post/</guid>
+    <description><![CDATA[<p>First post</p>]]></description>
+</item></channel>
 </rss>

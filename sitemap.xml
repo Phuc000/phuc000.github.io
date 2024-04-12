@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://phuc000.github.io/aboutme/</loc><lastmod>2024-01-05T22:38:56&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/categories/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/tags/first_post/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/first_post/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/posts/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/categories/random/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/tags/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>http://phuc000.github.io/aboutme/</loc><lastmod>2024-01-05T22:38:56&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/categories/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/tags/first_post/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/first_post/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/posts/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/categories/random/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://phuc000.github.io/tags/</loc><lastmod>2024-01-05T22:24:46&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
