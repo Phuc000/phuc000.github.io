@@ -4,9 +4,16 @@
         <link>http://phuc000.github.io/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>truongvinhphuc2003@gmail.com (Phuc000)</managingEditor>
-            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</lastBuildDate>
+            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Fri, 12 Apr 2024 12:01:23 &#43;0700</lastBuildDate>
             <atom:link href="http://phuc000.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>AmateursCTF_2024 Writeups</title>
+    <link>http://phuc000.github.io/amateursctf_2024/</link>
+    <pubDate>Fri, 12 Apr 2024 12:01:23 &#43;0700</pubDate><author>
+        <name>Phuc000</name>
+    </author><guid>http://phuc000.github.io/amateursctf_2024/</guid>
+    <description><![CDATA[<p>Writeup for rev challenge in the event.</p>]]></description>
+</item><item>
     <title>First_post</title>
     <link>http://phuc000.github.io/first_post/</link>
     <pubDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</pubDate><author>
