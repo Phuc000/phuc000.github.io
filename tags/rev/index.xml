@@ -4,7 +4,14 @@
         <link>http://phuc000.github.io/tags/rev/</link>
         <description>rev - Tag - Phuc000 Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>truongvinhphuc2003@gmail.com (Phuc000)</managingEditor>
-            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Mon, 22 Jul 2024 16:32:44 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/tags/rev/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Thu, 02 Jan 2025 18:02:16 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/tags/rev/" rel="self" type="application/rss+xml" /><item>
+    <title>Rootme ELF x64 - Nanomites Writeups</title>
+    <link>http://phuc000.github.io/rootme-nanomites/</link>
+    <pubDate>Thu, 02 Jan 2025 18:02:16 &#43;0700</pubDate><author>
+        <name>Phuc000</name>
+    </author><guid>http://phuc000.github.io/rootme-nanomites/</guid>
+    <description><![CDATA[<p>This challenge teached me some new knowledge so I just wanna write it down.</p>]]></description>
+</item><item>
     <title>ImaginaryCTF_2024 Writeups</title>
     <link>http://phuc000.github.io/imaginaryctf_2024/</link>
     <pubDate>Mon, 22 Jul 2024 16:32:44 &#43;0700</pubDate><author>
