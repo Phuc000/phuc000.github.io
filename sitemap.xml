@@ -2,13 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://phuc000.github.io/categories/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/posts/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/tags/rev/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/categories/reverse/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/rootme-nanomites/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://phuc000.github.io/tags/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://phuc000.github.io/categories/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://phuc000.github.io/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://phuc000.github.io/posts/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://phuc000.github.io/tags/rev/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://phuc000.github.io/categories/reverse/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://phuc000.github.io/rootme-nanomites/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://phuc000.github.io/tags/</loc><lastmod>2025-01-02T18:02:16&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>http://phuc000.github.io/imaginaryctf_2024/</loc><lastmod>2024-07-22T16:32:44&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://phuc000.github.io/amateursctf_2024/</loc><lastmod>2024-04-12T12:01:23&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://phuc000.github.io/aboutme/</loc><lastmod>2024-01-05T22:38:56&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
