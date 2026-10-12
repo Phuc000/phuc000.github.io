@@ -3,19 +3,25 @@
         <title>Categories - Category - Phuc000 Site</title>
         <link>http://phuc000.github.io/categories/</link>
         <description>Categories - Category - Phuc000 Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>truongvinhphuc2003@gmail.com (Phuc000)</managingEditor>
-            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>reverse</title>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Reverse</title>
     <link>http://phuc000.github.io/categories/reverse/</link>
     <pubDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</pubDate><author>
-        <name>Phuc000</name>
+        <name>Author</name>
     </author><guid>http://phuc000.github.io/categories/reverse/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>random</title>
+    <title>Travel</title>
+    <link>http://phuc000.github.io/categories/travel/</link>
+    <pubDate>Wed, 02 Jul 2025 20:53:31 &#43;0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://phuc000.github.io/categories/travel/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Random</title>
     <link>http://phuc000.github.io/categories/random/</link>
     <pubDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</pubDate><author>
-        <name>Phuc000</name>
+        <name>Author</name>
     </author><guid>http://phuc000.github.io/categories/random/</guid>
     <description><![CDATA[]]></description>
 </item></channel>

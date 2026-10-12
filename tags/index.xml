@@ -3,19 +3,39 @@
         <title>Tags - Tag - Phuc000 Site</title>
         <link>http://phuc000.github.io/tags/</link>
         <description>Tags - Tag - Phuc000 Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>truongvinhphuc2003@gmail.com (Phuc000)</managingEditor>
-            <webMaster>truongvinhphuc2003@gmail.com (Phuc000)</webMaster><lastBuildDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>rev</title>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Netcrawler</title>
+    <link>http://phuc000.github.io/tags/netcrawler/</link>
+    <pubDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://phuc000.github.io/tags/netcrawler/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Rev</title>
     <link>http://phuc000.github.io/tags/rev/</link>
     <pubDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</pubDate><author>
-        <name>Phuc000</name>
+        <name>Author</name>
     </author><guid>http://phuc000.github.io/tags/rev/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>first_post</title>
+    <title>Bkisc</title>
+    <link>http://phuc000.github.io/tags/bkisc/</link>
+    <pubDate>Wed, 02 Jul 2025 20:53:31 &#43;0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://phuc000.github.io/tags/bkisc/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Travel</title>
+    <link>http://phuc000.github.io/tags/travel/</link>
+    <pubDate>Wed, 02 Jul 2025 20:53:31 &#43;0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://phuc000.github.io/tags/travel/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>First_post</title>
     <link>http://phuc000.github.io/tags/first_post/</link>
     <pubDate>Fri, 05 Jan 2024 22:24:46 &#43;0700</pubDate><author>
-        <name>Phuc000</name>
+        <name>Author</name>
     </author><guid>http://phuc000.github.io/tags/first_post/</guid>
     <description><![CDATA[]]></description>
 </item></channel>

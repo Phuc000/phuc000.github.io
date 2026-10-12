@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Netcrawler - Tag - Phuc000 Site</title>
+        <link>http://phuc000.github.io/tags/netcrawler/</link>
+        <description>Netcrawler - Tag - Phuc000 Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</lastBuildDate><atom:link href="http://phuc000.github.io/tags/netcrawler/" rel="self" type="application/rss+xml" /><item>
+    <title>HTB CTF 2026 Writeups</title>
+    <link>http://phuc000.github.io/htbctf_2026/</link>
+    <pubDate>Thu, 30 Jul 2026 21:42:45 &#43;0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://phuc000.github.io/htbctf_2026/</guid>
+    <description><![CDATA[<p>Writeup for <strong>some</strong> rev challenges in the event.</p>]]></description>
+</item></channel>
+</rss>
