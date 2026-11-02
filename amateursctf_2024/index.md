@@ -105,6 +105,8 @@ print(flag)
 
 Trying some pwn.
 
+Classic format-string challenge.
+
 ```Python
 from pwn import *
 
